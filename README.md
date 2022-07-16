@@ -46,7 +46,7 @@ docker logs -f sui-fullnode-1 --tail 50
 
 * Daha sonra Twiter'da paylaşacağım yorumların altında birbirinize Yorumlarda SUİ adresi paylaşarak token gönderin.
 
-* Benim adresim: 0x5c774c3e401f2c3a22dadb8014f843849d053fa1
+* Benim adresim: 0x73efc80868163bac30c6728eccd96ca42f72de3c
 
 * Ek olarak NFT 'de gönderelim: Ayarlar kısmından mint NFT demo diyerek mintliyoruz.
 
